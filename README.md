@@ -1,0 +1,1 @@
+Zgadywanie liczb!
